@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fanfa\\Desktop\\code2026\\study_c\\remote_code_3_31\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24D9018D-2AF1-460A-8571-DD1D9BF6E306}|remote_code_3_31\\remote_code_3_31.vcxproj|C:\\Users\\fanfa\\Desktop\\code2026\\study_c\\remote_code_3_31\\remote_code_3_31\\test1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{24D9018D-2AF1-460A-8571-DD1D9BF6E306}|remote_code_3_31\\remote_code_3_31.vcxproj|solutionrelative:remote_code_3_31\\test1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test1.c",
+              "DocumentMoniker": "C:\\Users\\fanfa\\Desktop\\code2026\\study_c\\remote_code_3_31\\remote_code_3_31\\test1.c",
+              "RelativeDocumentMoniker": "remote_code_3_31\\test1.c",
+              "ToolTip": "C:\\Users\\fanfa\\Desktop\\code2026\\study_c\\remote_code_3_31\\remote_code_3_31\\test1.c*",
+              "RelativeToolTip": "remote_code_3_31\\test1.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-31T21:28:15.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
